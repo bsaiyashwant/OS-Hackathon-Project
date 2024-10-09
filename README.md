@@ -1,5 +1,6 @@
 # FileWizz-Team Rasmalai
-FileWizz - File System Explorer GUI
+**FileWizz - File System Explorer GUI**
+
 
 Key Features of FileWizz:
 
