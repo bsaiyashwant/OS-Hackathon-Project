@@ -156,3 +156,5 @@ footer_label.pack(side=tk.BOTTOM, pady=10)
 
 # Run the application
 root.mainloop()
+
+#Developed by Team Rasmalai. Copyrights Reserved.
