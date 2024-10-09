@@ -1,4 +1,4 @@
-# OS-Hackathon-Project-TeamRasmalai
+# FileWizz-Team Rasmalai
 FileWizz - File System Explorer by Team Rasmalai
 
 Team Members:
