@@ -2,6 +2,7 @@
 FileWizz - File System Explorer GUI
 
 Key Features of FileWizz:
+
 • Create: Effortlessly generate new text files.
 
 • Edit: Modify existing content with ease.
